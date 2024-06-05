@@ -7,6 +7,7 @@ import Service from "./Pages/Service/Service";
 import Contact from './Pages/Contact/Contact';
 import Career from "./Pages/Career/Career"
 import{BrowserRouter,Routes,Route} from "react-router-dom";
+// import NavBar from './Pages/NavBar/NavBar';
 
 const App = () => {
   return (
