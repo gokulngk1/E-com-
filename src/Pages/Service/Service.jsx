@@ -1,9 +1,12 @@
 import React from 'react'
 import "./Service.css"
+import NavBar from '../NavBar/NavBar'
 
 const Service = () => {
   return (
-    <div>Service</div>
+    <div>
+      <NavBar/>
+      Service</div>
   )
 }
 
